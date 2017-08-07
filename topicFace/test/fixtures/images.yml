@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tittle: MyString
+  description: MyText
+  private: false
+  filesize: MyString
+
+two:
+  tittle: MyString
+  description: MyText
+  private: false
+  filesize: MyString
