@@ -1,6 +1,6 @@
 module ApplicationHelper
     def isPrivate?(private)
-        if private = true
+        if private == true
             true
         else
             false
