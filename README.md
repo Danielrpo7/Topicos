@@ -80,6 +80,7 @@ production:
       end
     end
   end
+  
   ## 9. deleting Images
   def destroy
     @image.destroy
@@ -88,8 +89,6 @@ production:
       format.json { head :no_content }
     end
   end
-  
-  
     
 ## Deployment on Heroku
 
